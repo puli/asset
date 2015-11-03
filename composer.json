@@ -1,0 +1,40 @@
+{
+    "name": "puli/asset",
+    "description": "Manages the public assets in your Puli repository.",
+    "keywords": ["puli", "url", "public", "asset", "resource"],
+    "homepage": "http://puli.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernhard Schussek",
+            "email": "bschussek@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9",
+        "puli/repository": "^1.0-beta8",
+        "webmozart/glob": ">=2.0,<4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.6",
+        "sebastian/version": "^1.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Puli\\Asset\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Puli\\Asset\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/puli/issues/issues"
+    }
+}
