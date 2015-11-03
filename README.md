@@ -2,7 +2,7 @@ The Puli Asset Component
 ========================
 
 [![Build Status](https://travis-ci.org/puli/asset.svg?branch=master)](https://travis-ci.org/puli/asset)
-[![Build status](https://ci.appveyor.com/api/projects/status/x7qpeo9er78ftxk0/branch/master?svg=true)](https://ci.appveyor.com/project/webmozart/asset/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/jsuypngfloj3e0mt/branch/master?svg=true)](https://ci.appveyor.com/project/webmozart/asset/branch/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/puli/asset/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/puli/asset/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/puli/asset/v/stable.svg)](https://packagist.org/packages/puli/asset)
 [![Total Downloads](https://poser.pugx.org/puli/asset/downloads.svg)](https://packagist.org/packages/puli/asset)
